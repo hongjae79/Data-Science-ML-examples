@@ -1,3 +1,5 @@
-# Machine-Learning-in-Numpy
+# Machine-Learning 
 
-Various machine learning code with numpy only.  
+Various machine learning in code.  
+
+Linear regression, linear classification, ANN are written in numpy only.  
